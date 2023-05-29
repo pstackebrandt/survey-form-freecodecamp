@@ -1,0 +1,15 @@
+input, select, fieldset lable, textarea {
+    display: block;
+  }
+  
+  input[type="radio"] {
+    display: block;
+  }
+  
+  .block {
+    display: block;
+  }
+  
+  .inline {
+    display: inline;
+  }
